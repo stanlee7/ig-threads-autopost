@@ -1,0 +1,4 @@
+.env
+.env.bak
+state.json
+dm.json
